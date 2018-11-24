@@ -29,3 +29,5 @@ fields:
       file: about.md
   label: Similar Methods
   description: Type in links to other pages
+pages:
+- newmethod.md
