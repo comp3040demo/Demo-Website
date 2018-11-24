@@ -30,5 +30,4 @@ fields:
   label: Similar Methods
   description: Type in links to other pages
 pages:
-- methods/newmethod.md
 - newmethod.md
