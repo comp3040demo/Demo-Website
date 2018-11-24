@@ -25,3 +25,5 @@ fields:
       type: pages
   label: Related Methods
   description: A list of related method pages
+pages:
+- methods/newmethod.md
