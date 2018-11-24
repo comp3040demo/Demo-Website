@@ -1,0 +1,27 @@
+---
+label: Methods
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: title
+  label: Title
+  config:
+    required: true
+- type: textarea
+  name: description
+  label: Description
+  description: Explain what the method does
+  config:
+    required: true
+- type: file
+  label: Upload something?
+  name: upload_something_
+  description: Let users upload a file
+- type: select
+  name: related_methods
+  config:
+    source:
+      type: pages
+  label: Related Methods
+  description: A list of related method pages
